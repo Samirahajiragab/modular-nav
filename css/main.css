@@ -18,7 +18,7 @@ html {
 }
 
 body {
-margin: 0;
+  margin: 0;
 }
 
 .section-dark {
@@ -28,6 +28,7 @@ margin: 0;
 a {
   color: #0074d9;
 }
+
 .masterhead {
   text-align: center;
 }
@@ -39,7 +40,7 @@ a {
 }
 
 .nav a {
-  display:block;
+  display: block;
   text-decoration: none;
 }
 
@@ -69,7 +70,7 @@ a {
 @media only screen and (min-width: 60em) {
 
   .nav {
-  text-align: right;
+    text-align: right;
   }
 
 }
